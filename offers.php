@@ -122,54 +122,6 @@ require_once("./db/db.php");
                   </div>
                </div>
             <?php } ?>
-            <div class="swiper-slide slide">
-               <div class="image">
-                  <span class="price">$15.99/night</span>
-                  <img src="images/room-1.jpg" alt="">
-                  <a href="#" class="fas fa-shopping-cart"></a>
-               </div>
-               <div class="content">
-                  <h3>exclusive room</h3>
-                  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente nisi.</p>
-                  <a href="#" class="btn">book now</a>
-               </div>
-            </div>
-            <div class="swiper-slide slide">
-               <div class="image">
-                  <span class="price">$15.99/night</span>
-                  <img src="images/room-1.jpg" alt="">
-                  <a href="#" class="fas fa-shopping-cart"></a>
-               </div>
-               <div class="content">
-                  <h3>exclusive room</h3>
-                  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente nisi.</p>
-                  <a href="#" class="btn">book now</a>
-               </div>
-            </div>
-            <div class="swiper-slide slide">
-               <div class="image">
-                  <span class="price">$15.99/night</span>
-                  <img src="images/room-1.jpg" alt="">
-                  <a href="#" class="fas fa-shopping-cart"></a>
-               </div>
-               <div class="content">
-                  <h3>exclusive room</h3>
-                  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente nisi.</p>
-                  <a href="#" class="btn">book now</a>
-               </div>
-            </div>
-            <div class="swiper-slide slide">
-               <div class="image">
-                  <span class="price">$15.99/night</span>
-                  <img src="images/room-1.jpg" alt="">
-                  <a href="#" class="fas fa-shopping-cart"></a>
-               </div>
-               <div class="content">
-                  <h3>exclusive room</h3>
-                  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente nisi.</p>
-                  <a href="#" class="btn">book now</a>
-               </div>
-            </div>
          </div>
         
 
